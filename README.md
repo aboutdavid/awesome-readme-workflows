@@ -1,6 +1,8 @@
 # awesome-workflows
 An awesome list of GitHub workflows
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 **What is a GitHub Workflow?** They are actually called "actions", but many people called workflows. Basically, they are scripts of code that can be triggered by basically anything. Like checking code quality on a PR, or even updating your personal README.md with your latest blog posts.
 
 ## Personal README.md Workflows
