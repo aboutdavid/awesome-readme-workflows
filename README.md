@@ -7,4 +7,12 @@ An awesome list of GitHub personal README.md workflows
 
 **What is a GitHub Personal README?** They are like mini-pages for your GitHub profile. You can see an example [here](https://github.com/aboutDavid)
 
+## Table of contents:
+- [Multi-purpose](#multi-purpose)
+- [Blog Posts](#blog-posts)
+
+### Multi-purpose
+None yet
+
+### Blog Posts
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow): Puts your blog posts on your personal readme file. [How to install](https://github.com/gautamkrishnar/blog-post-workflow#how-to-use)
